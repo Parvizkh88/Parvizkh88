@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parviz Khodavandegar</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Countries App](https://github.com/Parvizkh88/int-fs7-frontend-project)
+- 🔭 I’m currently working on [Fluffy-Sofa-eCommerce-App](https://github.com/Parvizkh88/fluffy-sofa/tree/main)
 
 - 🌱 I’m currently learning **Node.js**
 
